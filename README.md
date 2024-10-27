@@ -4,7 +4,7 @@ We use LabVIEW to simulate analog signal modulation (AM, DSB, FM) and digital si
 
 ## Contributors
 
-<a href="https://github.com/Tangent-H">
+<a href="https://github.com/Wendy-Ying">
   <img src="https://avatars.githubusercontent.com/u/105114805?v=4" width="100" />
 </a>
 
